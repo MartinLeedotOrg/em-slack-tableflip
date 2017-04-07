@@ -40,7 +40,7 @@ __module__ = "slack_tableflip.{0}".format(__file__)
 def set_project_info():
     """Set project information from setup tools installation."""
     # CUSTOMIZE THIS VALUE FOR YOUR OWN INSTALLATION
-    base_url = 'https://slack-tableflip.herokuapp.com'
+    base_url = 'https://ragebot.herokuapp.com'
 
     # Get app info from the dist
     app_name = 'slack_tableflip'
